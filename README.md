@@ -1,2 +1,2 @@
-# React homework 3 - Книга контактів (Used - componentDidMount, componentDidUpdate)
+# React homework 3 - Книга контактів 
 ### Used - componentDidMount, componentDidUpdate
